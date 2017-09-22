@@ -1,0 +1,6 @@
+{
+	"parent": "block/torch",
+	"textures": {
+		"all": "atd:blocks/torch_lit"
+	}
+}

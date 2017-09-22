@@ -1,0 +1,13 @@
+
+tile.Atd_Torch.name=Atd Torch
+tile.Pitch_Bucket.name=Pitch Bucket
+
+item.Bucket.name=Bucket
+item.Stick.name=Stick
+item.atd_torch.name=Atd Torch
+
+
+
+
+itemGroup.atdblocks=Against the Darkness Blocks
+itemGroup.atditems=Against the Darkness Items
